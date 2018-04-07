@@ -24,17 +24,17 @@
 
 <br>
 
-> ## Carbon emissions and the cloud ![Stats](/assets/stats.PNG)
+> ## Carbon emissions and the cloud ![Stats](/assets/stats.png)
 
 <br>
 
-> ## An efficient infrastructure can result in: ![e_infra](/assets/e_infra.PNG)
+> ## An efficient infrastructure can result in: ![e_infra](/assets/e_infra.png)
 
 <br>
 
-> ## Internet Companies like APPLE have taken Big steps to Go GREEN ![apple](/assets/apple.PNG)
+> ## Internet Companies like APPLE have taken Big steps to Go GREEN ![apple](/assets/apple.png)
 
-> ## How can you cut your energy costs and reduce your internet carbon footprint ![recommendations](/assets/recommendations.PNG)
+> ## How can you cut your energy costs and reduce your internet carbon footprint ![recommendations](/assets/recommendations.png)
 
 ## Authors
 
